@@ -19,13 +19,6 @@ A base deste projeto foi construída utilizando os três pilares da web:
 * Botões interativos com direcionamento para redes profissionais (LinkedIn, GitHub).
 * Estrutura responsiva (adapta-se perfeitamente a telas de celulares e desktops).
 
-## 🚀 Como rodar o projeto
-Como este é um projeto Front-end estático, a execução local é simples:
-
-1. Faça o download ou clone este repositório.
-2. Abra a pasta do projeto no seu editor de código (recomendado: VS Code).
-3. Abra o arquivo `index.html` no seu navegador de preferência.
-4. *Dica:* Utilize a extensão **Live Server** no VS Code para visualizar as alterações em tempo real.
 
 ---
 Desenvolvido com foco, lógica e disciplina por **Abis Ariel**.
