@@ -1,4 +1,4 @@
-<<<<< HEAD
+
 Um agregador de links minimalista e interativo, desenvolvido para centralizar contatos, portfólios e presença digital.
 
 ## 🎯 Objetivo do Projeto
@@ -9,12 +9,10 @@ Um agregador de links minimalista e interativo, desenvolvido para centralizar co
 
 ## 🎯 Objetivo do Projeto
 Este projeto marca o início da minha jornada no desenvolvimento Front-end. Criado a partir dos fundamentos de estruturação web e interatividade, ele serve como o hub central para o meu perfil profissional, consolidando minha identidade visual como desenvolvedor. 
->>>>>>> c433463a9d741b5dd13155edb54865eee5c4596e
-
 O foco principal durante a construção foi dominar a semântica do código, a estilização em cascata e a lógica de programação, criando uma experiência de usuário (UX) fluida e direta ao ponto.
 
 ## 🛠️ Tecnologias Utilizadas
-<<<<<<< HEAD
+
 
 A base deste projeto foi construída utilizando os três pilares da web:
 
@@ -54,6 +52,6 @@ A base deste projeto foi construída utilizando os três pilares da web:
 
 
 ---
->>>>>>> c433463a9d741b5dd13155edb54865eee5c4596e
+
 Desenvolvido com foco, lógica e disciplina por **Abis Ariel**.
 
